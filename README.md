@@ -1,2 +1,0 @@
-# Greeting from butchisakura
-* update
